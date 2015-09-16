@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dataset>
-  <t_client id="200" name="Olivier Lecarme" description="client gentil"/>
+  <t_client id="200" name="Olivier Lecarme" adresse="89 quai Panhard et Levassor 75013"/>
   <t_contrat id="41" name="Abonnement Video PLAY" description="description du contrat" client_fk="200"/>
   <t_transactions_bancaires id="1" name="Paiement option Sport" amount="10.0" contrat_fk="41"/>
   <t_transactions_bancaires id="10" name="Remboursement" amount="22.0" contrat_fk="41"/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dataset>
-  <t_client id="400" name="Lydie Dupond" description="client gentil"/>
+  <t_client id="400" name="Lydie Dupond" adresse="89 quai Panhard et Levassor 75013"/>
   <t_contrat id="31" name="Abonnement TV VOD" description="Description du contrat" client_fk="400"/>
   <t_contrat id="32" name="Abonnement Box TV" description="Chaines Sport, Documentaires etc.." client_fk="400"/>
 </dataset>

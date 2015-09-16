@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dataset>
-  <t_client id="100" name="Michel Besson" description="gentil client "/>
-  <t_client id="200" name="Olivier Lecarme" description="client gentil"/>
-  <t_client id="300" name="Carine Dubois" description="client gentil"/>
-  <t_client id="400" name="Lydie Dupond" description="client gentil"/>
-  <t_client id="500" name="Bile Gate" description="client aime bien le sprot"/>
+  <t_client id="100" name="Michel Besson" adresse="89 quai Panhard et Levassor 75013"/>
+  <t_client id="200" name="Olivier Lecarme" adresse="89 quai Panhard et Levassor 75013"/>
+  <t_client id="300" name="Carine Dubois" adresse="89 quai Panhard et Levassor 75013"/>
+  <t_client id="400" name="Lydie Dupond" adresse="89 quai Panhard et Levassor 75013"/>
+  <t_client id="500" name="Bile Gate" adresse="89 quai Panhard et Levassor 75013"/>
   <t_contrat id="31" name="Abonnement TV VOD" description="Description du contrat" client_fk="400"/>
   <t_contrat id="32" name="Abonnement Box TV" description="Chaines Sport, Documentaires etc.." client_fk="400"/>
   <t_contrat id="41" name="Abonnement Video PLAY" description="description du contrat" client_fk="200"/>
